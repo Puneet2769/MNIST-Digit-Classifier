@@ -6,7 +6,9 @@ This project was built for the **Kaggle Digit Recognizer** competition and inclu
 
 ---
 
-## 📘 Competition  
+## 📘 Competition  <img width="655" height="325" alt="MNIST_dataset_example" src="https://github.com/user-attachments/assets/bd387090-007e-4389-911a-addac0283965" /><img width="853" height="356" alt="1_P8YYr9zsEECebk_u7Dy0mg" src="https://github.com/user-attachments/assets/55ce722e-218c-4799-8517-31257416434c" />
+
+
 **Kaggle:** https://www.kaggle.com/competitions/digit-recognizer
 
 **Dataset:**  
