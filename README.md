@@ -6,8 +6,8 @@ This project was built for the **Kaggle Digit Recognizer** competition and inclu
 
 ---
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/bd387090-007e-4389-911a-addac0283965" height="200" />
-  <img src="https://github.com/user-attachments/assets/55ce722e-218c-4799-8517-31257416434c" height="200" />
+  <img src="https://github.com/user-attachments/assets/bd387090-007e-4389-911a-addac0283965" height="200" width="300" />
+  <img src="https://github.com/user-attachments/assets/55ce722e-218c-4799-8517-31257416434c" height="200" width="300" />
 </p>
 
 
