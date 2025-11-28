@@ -59,9 +59,9 @@ requirements.txt (optional)
 Run the script:
 
 
-
+```bash
 python digit_classifier.py
-
+```
 
 The script will:
 
@@ -70,7 +70,7 @@ The script will:
 ✔ Create `Submission_real_new.csv`
 
 ---
-
+```bash
 ## 📁 Repository Structure  
 
 
@@ -80,7 +80,7 @@ The script will:
 ├── requirements.txt # optional
 └── README.md
 
-
+```
 
 ---
 
@@ -94,15 +94,5 @@ The script will:
 
 ## 👤 Author  
 **Puneet Poddar**  
+
 Kaggle Profile: [(https://www.kaggle.com/puneet2769)]
-
----
-
-## 📌 Notes  
-- The project is intentionally simple and clean.  
-- No deep learning required.  
-- Great baseline for experimenting with:
-  - PCA  
-  - scaling  
-  - hyperparameter tuning  
-  - alternative classifiers  
